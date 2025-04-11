@@ -1,4 +1,4 @@
-const broker = 'ws://broker.emqx.io:8083/mqtt';
+const broker = 'wss://broker.emqx.io:8083/mqtt';
 const topic = 'bru/cba';
 let currentValue = 0;
 
